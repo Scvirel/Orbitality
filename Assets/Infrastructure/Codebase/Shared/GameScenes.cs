@@ -6,6 +6,7 @@ namespace Orbitality.Client.Runtime
         public const string Camera = "Camera";
         public const string EventSystem = "EventSystem";
         public const string LoadingCurtain = "LoadingCurtain";
+        public const string BackgroundAudio = "BackgroundAudio";
         public const string Menu = "Menu";
     }
 }

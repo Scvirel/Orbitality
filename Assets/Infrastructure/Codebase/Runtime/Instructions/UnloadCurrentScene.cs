@@ -9,7 +9,7 @@ namespace Orbitality.Client.Runtime
 
         public override async void Execute()
         {
-            await Task.Delay(100);
+            await Task.Delay(2000);
             await _unloadSceneWithState.Execute(gameObject.scene);
         }
     }

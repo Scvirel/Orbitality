@@ -11,6 +11,7 @@ namespace Orbitality.Client.Runtime
         {
             _loadScene.Execute(GameScenes.Camera, LoadSceneMode.Additive);
             _loadScene.Execute(GameScenes.EventSystem, LoadSceneMode.Additive);
+            _loadScene.Execute(GameScenes.BackgroundAudio, LoadSceneMode.Additive);
         }
     }
 }
