@@ -20,6 +20,7 @@ namespace Orbitality.Client.Runtime
                 .Bind<IUnloadSceneWithState>()
                 .To<UnloadSceneWithState>()
                 .AsSingle();
+
         }
     }
 }
