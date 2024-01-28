@@ -20,5 +20,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Infrastructure/Scenes/BackgroundAudio.unity
     guid: 57ec061373773a64fadf5fd0a3168740
+  - enabled: 1
+    path: Assets/Infrastructure/Scenes/Battleground.unity
+    guid: 9abd94aa8904c8244b3ba8fe74710392
+  - enabled: 1
+    path: Assets/Infrastructure/Scenes/PausePopup.unity
+    guid: 4685f61f5ebe1e24394d9240c982c744
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

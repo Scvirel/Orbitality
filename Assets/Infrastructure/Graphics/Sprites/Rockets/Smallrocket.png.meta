@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 40ec4e698bb11e34281dae986916e702
+guid: 7118ba58b359ff644880dc098f08b490
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1555690343638273694
-    second: Remove-bg.ai_1706357404004_0
+      213: 872439637304584322
+    second: Smallrocket_0
+  - first:
+      213: 7459632449912429350
+    second: Smallrocket_1
+  - first:
+      213: -3779477434905742402
+    second: Smallrocket_2
+  - first:
+      213: 6908422375819593822
+    second: Smallrocket_3
+  - first:
+      213: 8089711274443066264
+    second: Smallrocket_4
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -46,14 +58,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -134,13 +146,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Remove-bg.ai_1706357404004_0
+      name: Smallrocket_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 142
-        width: 981
-        height: 989
+        x: 75
+        y: 315
+        width: 49
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,8 +160,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2617fe6ffd3196ae0800000000000000
-      internalID: -1555690343638273694
+      spriteID: 288a28d4a378b1c00800000000000000
+      internalID: 872439637304584322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallrocket_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 221
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bd10cb030f58760800000000000000
+      internalID: 7459632449912429350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallrocket_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 194
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3b6d72c499c8bc0800000000000000
+      internalID: -3779477434905742402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallrocket_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 93
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5846156c85afdf50800000000000000
+      internalID: 6908422375819593822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallrocket_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 26
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bc6a00b8d644070800000000000000
+      internalID: 8089711274443066264
       vertices: []
       indices: 
       edges: []
@@ -157,7 +253,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -165,7 +261,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Remove-bg.ai_1706357404004_0: -1555690343638273694
+      Smallrocket_0: 872439637304584322
+      Smallrocket_1: 7459632449912429350
+      Smallrocket_2: -3779477434905742402
+      Smallrocket_3: 6908422375819593822
+      Smallrocket_4: 8089711274443066264
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

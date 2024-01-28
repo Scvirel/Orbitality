@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+﻿using UnityEngine;
 using Zenject;
 
 namespace Orbitality.Client.Runtime
@@ -9,8 +9,9 @@ namespace Orbitality.Client.Runtime
 
         public override async void Execute()
         {
-            await Task.Delay(2000);
             await _unloadSceneWithState.Execute(gameObject.scene);
+
+            _isCompleted = true;
         }
     }
 }

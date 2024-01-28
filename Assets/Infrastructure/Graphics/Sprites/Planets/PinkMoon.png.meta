@@ -3,8 +3,8 @@ guid: 702940ebe3dbd884eb87b34fd6932c9a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6638410327246878815
-    second: Remove-bg.ai_1706357368411_0
+      213: -4182014648693063002
+    second: PinkMoon_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -46,14 +46,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -134,7 +134,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Remove-bg.ai_1706357368411_0
+      name: PinkMoon_0
       rect:
         serializedVersion: 2
         x: 150
@@ -148,8 +148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f58b5d4550f502c50800000000000000
-      internalID: 6638410327246878815
+      spriteID: 6a28b2395df76f5c0800000000000000
+      internalID: -4182014648693063002
       vertices: []
       indices: 
       edges: []
@@ -157,7 +157,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -165,7 +165,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Remove-bg.ai_1706357368411_0: 6638410327246878815
+      PinkMoon_0: -4182014648693063002
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

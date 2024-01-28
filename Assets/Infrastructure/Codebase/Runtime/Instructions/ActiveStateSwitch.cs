@@ -11,6 +11,8 @@ namespace Orbitality.Client.Runtime
         {
             _activate.SetActive(true);
             _deactivate.SetActive(false);
+
+            _isCompleted = true;
         }
     }
 }

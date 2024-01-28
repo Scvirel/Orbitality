@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bc6e1f1eef187545a97ddc092c3e96b, type: 3}
+  m_Name: PlanetConfig
+  m_EditorClassIdentifier: 
+  _models:
+  - PlanetType: 1
+    Sprite: {fileID: 21300000, guid: 40ec4e698bb11e34281dae986916e702, type: 3}
+    RotationSpeed: 10
+  - PlanetType: 2
+    Sprite: {fileID: 21300000, guid: 31a20fe97462e46448b8c07e0f328d82, type: 3}
+    RotationSpeed: 15
+  - PlanetType: 3
+    Sprite: {fileID: 21300000, guid: 984616039e511f74996383bdd35c4908, type: 3}
+    RotationSpeed: 20
+  - PlanetType: 4
+    Sprite: {fileID: 21300000, guid: 702940ebe3dbd884eb87b34fd6932c9a, type: 3}
+    RotationSpeed: 25
+  - PlanetType: 5
+    Sprite: {fileID: 21300000, guid: 7c5a54c8c8437b740b8576dbd99172f5, type: 3}
+    RotationSpeed: 30

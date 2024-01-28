@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: da7e4805517caae40b90c470e345cbe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4272468955716402379
+    second: OrbitWhite_0
+  - first:
+      213: -603314282395775820
+    second: OrbitWhite_1
+  - first:
+      213: -515418008247495148
+    second: OrbitWhite_2
+  - first:
+      213: -6082069107200373636
+    second: OrbitWhite_3
+  - first:
+      213: -3386853958784297044
+    second: OrbitWhite_4
+  - first:
+      213: 1892858602499005850
+    second: OrbitWhite_5
+  - first:
+      213: 8931981735035984182
+    second: OrbitWhite_6
+  - first:
+      213: -8589730956089682870
+    second: OrbitWhite_7
+  - first:
+      213: -3828518057044028649
+    second: OrbitWhite_8
+  - first:
+      213: -9023886087552142648
+    second: OrbitWhite_9
+  - first:
+      213: -1917010005019637731
+    second: OrbitWhite_10
+  - first:
+      213: 7684766423023790710
+    second: OrbitWhite_11
+  - first:
+      213: 5483774257698473210
+    second: OrbitWhite_12
+  - first:
+      213: -5371105862802352151
+    second: OrbitWhite_13
+  - first:
+      213: -4368149906283745044
+    second: OrbitWhite_14
+  - first:
+      213: 2656290081957185460
+    second: OrbitWhite_15
+  - first:
+      213: -5054091692954427201
+    second: OrbitWhite_16
+  - first:
+      213: -6805257160548756420
+    second: OrbitWhite_17
+  - first:
+      213: 8142409312264985061
+    second: OrbitWhite_18
+  - first:
+      213: 3802305172310400639
+    second: OrbitWhite_19
+  - first:
+      213: -2982260466047619474
+    second: OrbitWhite_20
+  - first:
+      213: 776752531492887970
+    second: OrbitWhite_21
+  - first:
+      213: -1451538795198581925
+    second: OrbitWhite_22
+  - first:
+      213: 7903188640159968467
+    second: OrbitWhite_23
+  - first:
+      213: 1392596378651956931
+    second: OrbitWhite_24
+  - first:
+      213: 1054586229882772395
+    second: OrbitWhite_25
+  - first:
+      213: 5453103104081205931
+    second: OrbitWhite_26
+  - first:
+      213: 212669907779265737
+    second: OrbitWhite_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrbitWhite_0
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1468
+        width: 91
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc3c53f0ebda4b30800000000000000
+      internalID: 4272468955716402379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_1
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1476
+        width: 92
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc41ed4bd890a7f0800000000000000
+      internalID: -603314282395775820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_2
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1449
+        width: 89
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41691936d0ed8d8f0800000000000000
+      internalID: -515418008247495148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1431
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cc1f50f56289ba0800000000000000
+      internalID: -6082069107200373636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_4
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1398
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca75980d44a7ff0d0800000000000000
+      internalID: -3386853958784297044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1372
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ddef3ced8c44a10800000000000000
+      internalID: 1892858602499005850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_6
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1328
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639d8197016c4fb70800000000000000
+      internalID: 8931981735035984182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1294
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44191ea4352bc880800000000000000
+      internalID: -8589730956089682870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_8
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1241
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713d8b98c1f5edac0800000000000000
+      internalID: -3828518057044028649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1201
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c27dd9f967b4c280800000000000000
+      internalID: -9023886087552142648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_10
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1141
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d184fe3ae896565e0800000000000000
+      internalID: -1917010005019637731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_11
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1098
+        width: 36
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aae2a9856c5aa60800000000000000
+      internalID: 7684766423023790710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_12
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1035
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af48c8212a74a1c40800000000000000
+      internalID: 5483774257698473210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 990
+        width: 18
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7d5a4dcaff575b0800000000000000
+      internalID: -5371105862802352151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_14
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 926
+        width: 17
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce03d4ebdc63163c0800000000000000
+      internalID: -4368149906283745044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 882
+        width: 24
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7837381c90dd420800000000000000
+      internalID: 2656290081957185460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_16
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 821
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0e23b02624cd9b0800000000000000
+      internalID: -5054091692954427201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 780
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34de441baede81a0800000000000000
+      internalID: -6805257160548756420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_18
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 724
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e913611126aff070800000000000000
+      internalID: 8142409312264985061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 688
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e1133a86084c430800000000000000
+      internalID: 3802305172310400639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_20
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 641
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e6a8528e1ec96d0800000000000000
+      internalID: -2982260466047619474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_21
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 612
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2add40edf4497ca00800000000000000
+      internalID: 776752531492887970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_22
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 575
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b537d7608291bdbe0800000000000000
+      internalID: -1451538795198581925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 554
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc23a10234cdad60800000000000000
+      internalID: 7903188640159968467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_24
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 519
+        width: 88
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c69b01370f735310800000000000000
+      internalID: 1392596378651956931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_25
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 530
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab5e21b694a2ae00800000000000000
+      internalID: 1054586229882772395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_26
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 507
+        width: 107
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa1752a1605dab40800000000000000
+      internalID: 5453103104081205931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrbitWhite_27
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 509
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c42993872e83f200800000000000000
+      internalID: 212669907779265737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OrbitWhite_0: 4272468955716402379
+      OrbitWhite_1: -603314282395775820
+      OrbitWhite_10: -1917010005019637731
+      OrbitWhite_11: 7684766423023790710
+      OrbitWhite_12: 5483774257698473210
+      OrbitWhite_13: -5371105862802352151
+      OrbitWhite_14: -4368149906283745044
+      OrbitWhite_15: 2656290081957185460
+      OrbitWhite_16: -5054091692954427201
+      OrbitWhite_17: -6805257160548756420
+      OrbitWhite_18: 8142409312264985061
+      OrbitWhite_19: 3802305172310400639
+      OrbitWhite_2: -515418008247495148
+      OrbitWhite_20: -2982260466047619474
+      OrbitWhite_21: 776752531492887970
+      OrbitWhite_22: -1451538795198581925
+      OrbitWhite_23: 7903188640159968467
+      OrbitWhite_24: 1392596378651956931
+      OrbitWhite_25: 1054586229882772395
+      OrbitWhite_26: 5453103104081205931
+      OrbitWhite_27: 212669907779265737
+      OrbitWhite_3: -6082069107200373636
+      OrbitWhite_4: -3386853958784297044
+      OrbitWhite_5: 1892858602499005850
+      OrbitWhite_6: 8931981735035984182
+      OrbitWhite_7: -8589730956089682870
+      OrbitWhite_8: -3828518057044028649
+      OrbitWhite_9: -9023886087552142648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

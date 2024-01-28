@@ -8,5 +8,7 @@ namespace Orbitality.Client.Runtime
         public const string LoadingCurtain = "LoadingCurtain";
         public const string BackgroundAudio = "BackgroundAudio";
         public const string Menu = "Menu";
+        public const string Battleground = "Battleground";
+        public const string PausePopup = "PausePopup";
     }
 }

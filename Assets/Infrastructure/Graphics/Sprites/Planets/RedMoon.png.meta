@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b0a6838ff59c0a74e8847ac20c45cc33
+guid: 7c5a54c8c8437b740b8576dbd99172f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4293189531956593712
-    second: Remove-bg.ai_1706357343379-transformed_0
+      213: -210326620966533737
+    second: RedMoon_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -46,14 +46,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -134,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Remove-bg.ai_1706357343379-transformed_0
+      name: RedMoon_0
       rect:
         serializedVersion: 2
-        x: 274
-        y: 248
-        width: 1906
-        height: 1920
+        x: 78
+        y: 60
+        width: 1117
+        height: 1114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,8 +148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 034c2bd0229749b30800000000000000
-      internalID: 4293189531956593712
+      spriteID: 7954b767d05c41df0800000000000000
+      internalID: -210326620966533737
       vertices: []
       indices: 
       edges: []
@@ -157,7 +157,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -165,7 +165,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Remove-bg.ai_1706357343379-transformed_0: 4293189531956593712
+      RedMoon_0: -210326620966533737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

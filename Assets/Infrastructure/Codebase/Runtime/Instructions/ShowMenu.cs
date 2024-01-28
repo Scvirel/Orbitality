@@ -10,6 +10,8 @@ namespace Orbitality.Client.Runtime
         public override void Execute()
         {
             _loadScene.Execute(GameScenes.Menu, LoadSceneMode.Additive);
+
+            _isCompleted = true;
         }
     }
 }
