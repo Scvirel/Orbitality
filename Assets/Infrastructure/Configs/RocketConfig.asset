@@ -15,19 +15,16 @@ MonoBehaviour:
   _models:
   - Type: 1
     Sprite: {fileID: 21300000, guid: 7118ba58b359ff644880dc098f08b490, type: 3}
-    Acceleration: 100
-    Weight: 0
-    CooldownMSec: 0
-    Damage: 0
+    Speed: 100
+    CooldownSec: 10
+    Damage: 10
   - Type: 2
     Sprite: {fileID: 21300000, guid: 510ad4334c6b5a14da4b00e5946b6abe, type: 3}
-    Acceleration: 90
-    Weight: 0
-    CooldownMSec: 0
-    Damage: 0
+    Speed: 100
+    CooldownSec: 20
+    Damage: 20
   - Type: 3
     Sprite: {fileID: 21300000, guid: 18b676b4c90e7e143829c9ba43c6e3f9, type: 3}
-    Acceleration: 80
-    Weight: 0
-    CooldownMSec: 0
-    Damage: 0
+    Speed: 100
+    CooldownSec: 30
+    Damage: 30

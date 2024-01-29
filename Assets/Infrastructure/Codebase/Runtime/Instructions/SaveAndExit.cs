@@ -37,7 +37,7 @@ namespace Orbitality.Client.Runtime
         private PlayerDataModel[] SelectPlayers()
         {
             int count = _levelService.Planets.Count();
-            PlayerDataModel[] result = new PlayerDataModel[count];
+            PlayerDataModel[] result = new PlayerDataModel[count - 1];
 
             int planetIterator = default;
             for (int i = 0; i < count; i++)
@@ -47,7 +47,7 @@ namespace Orbitality.Client.Runtime
                 PlanetDataState planetState = obj.GetComponent<PlanetDataState>();
                 if (planetState == null)
                 {
-                    continue; //Sun no planet btw               (:
+                    continue; //Sun
                 }
 
                 PlanetDto planetDto = planetState.Value;

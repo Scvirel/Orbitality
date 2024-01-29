@@ -10,5 +10,6 @@ namespace Orbitality.Client.Runtime
         public const string Menu = "Menu";
         public const string Battleground = "Battleground";
         public const string PausePopup = "PausePopup";
+        public const string GameOver = "GameOver";
     }
 }

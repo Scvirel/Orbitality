@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using Zenject;
 using Random = System.Random;
 
@@ -14,7 +15,7 @@ namespace Orbitality.Client.Runtime
         [Inject] private readonly IUnloadSceneWithState _unloadSceneWithState = default;
 
         [SerializeField] private string _saveId = default;
-        [SerializeField] private int _fakes = default;
+        [SerializeField] private Slider _playersCountSlider = default; 
 
         public override void Execute()
         {
@@ -51,13 +52,14 @@ namespace Orbitality.Client.Runtime
 
         private PlayerDataModel[] GeneratePlayers()
         {
-            PlayerDataModel[] result = new PlayerDataModel[_fakes];
+            int playersCount = (int)_playersCountSlider.value;
+            PlayerDataModel[] result = new PlayerDataModel[playersCount];
             Random random = new Random();
 
-            int userPos = random.Next(0, _fakes);
+            int userPos = random.Next(0, playersCount);
             int orbiteX = 0;
 
-            for (int i = 0; i < _fakes; i++)
+            for (int i = 0; i < playersCount; i++)
             {
                 orbiteX += 20;
 

@@ -15,21 +15,21 @@ MonoBehaviour:
   _models:
   - Type: 1
     Sprite: {fileID: 21300000, guid: 40ec4e698bb11e34281dae986916e702, type: 3}
-    OrbitRotationSpeed: 1
+    OrbitRotationSpeed: 0.5
     AxisRotationSpeed: 50
   - Type: 2
     Sprite: {fileID: 21300000, guid: 31a20fe97462e46448b8c07e0f328d82, type: 3}
-    OrbitRotationSpeed: 1.5
+    OrbitRotationSpeed: 1
     AxisRotationSpeed: 100
   - Type: 3
     Sprite: {fileID: 21300000, guid: 984616039e511f74996383bdd35c4908, type: 3}
-    OrbitRotationSpeed: 2
+    OrbitRotationSpeed: 1.5
     AxisRotationSpeed: 150
   - Type: 4
     Sprite: {fileID: 21300000, guid: 702940ebe3dbd884eb87b34fd6932c9a, type: 3}
-    OrbitRotationSpeed: 2.5
+    OrbitRotationSpeed: 2
     AxisRotationSpeed: 200
   - Type: 5
     Sprite: {fileID: 21300000, guid: 7c5a54c8c8437b740b8576dbd99172f5, type: 3}
-    OrbitRotationSpeed: 3
+    OrbitRotationSpeed: 2.5
     AxisRotationSpeed: 500

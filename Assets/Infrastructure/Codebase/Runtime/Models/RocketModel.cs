@@ -9,7 +9,7 @@ namespace Orbitality.Client.Runtime
         public RocketType Type = default;
         public Sprite Sprite = default;
         public float Speed = default;
-        public int CooldownMSec = default;
+        public int CooldownSec = default;
         public int Damage = default;
     }
 }

@@ -26,5 +26,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Infrastructure/Scenes/PausePopup.unity
     guid: 4685f61f5ebe1e24394d9240c982c744
+  - enabled: 1
+    path: Assets/Infrastructure/Scenes/GameOver.unity
+    guid: 5155f47974bf3814fa18de7933318515
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

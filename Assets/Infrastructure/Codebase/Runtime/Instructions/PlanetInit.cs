@@ -7,22 +7,27 @@ namespace Orbitality.Client.Runtime
         [SerializeField] private SpriteRenderer _renderer = default;
         [SerializeField] private Transform _transform = default;
 
-        [SerializeField] private GameObject _nickName = default;
+        [SerializeField] private GameObject _hud = default;
         [SerializeField] private GameObject _launcherDirectionArrow = default;
 
         [SerializeField] private PlanetDataState _state = default;
+
+        [SerializeField] private GameObject _userManualLauncher = default;
+        [SerializeField] private GameObject _aiLauncher = default;
 
         public override void Execute(PlanetDto dto)
         {
             if (dto.PlayerType == PlayerType.RealPlayer)
             {
-                _nickName.SetActive(true);
+                _hud.SetActive(true);
                 _launcherDirectionArrow.SetActive(true);
+                _userManualLauncher.SetActive(true);
             }
             else
             {
-                _nickName.SetActive(false);
+                _hud.SetActive(false);
                 _launcherDirectionArrow.SetActive(false);
+                _aiLauncher.SetActive(true);
             }
 
             _renderer.sprite = dto.Sprite;

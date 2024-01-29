@@ -6,7 +6,6 @@ namespace Orbitality.Client.Runtime
     {
         [SerializeField] private SpriteRenderer _renderer = default;
         [SerializeField] private Transform _transform = default;
-        [SerializeField] private Rigidbody2D _rigidbody = default;
 
         [SerializeField] private RocketDataState _rocketDataState = default;
 

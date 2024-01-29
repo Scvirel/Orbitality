@@ -1,11 +1,15 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using Zenject;
 
 namespace Orbitality.Client.Runtime
 {
     public sealed class LevelService : ILevelService
     {
+        [Inject] private readonly ILoadScene _loadScene = default;
+
         private List<GameObject> _planets = new List<GameObject>();
         public IEnumerable<GameObject> Planets 
         { 
@@ -27,6 +31,12 @@ namespace Orbitality.Client.Runtime
         public void RemovePlanet(GameObject planet)
         {
             _planets.Remove(planet);
+
+            //Todo remove Plug
+            if (_planets.Count == 1 || planet.GetComponent<PlanetDataState>().Value.PlayerType == PlayerType.RealPlayer)
+            {
+                _loadScene.Execute(GameScenes.GameOver, LoadSceneMode.Additive);
+            }
         }
 
         public void InsertRocket(GameObject rocket)
