@@ -21,6 +21,10 @@ namespace Orbitality.Client.Runtime
                 .To<UnloadSceneWithState>()
                 .AsSingle();
 
+            Container
+                .Bind<ILoadSceneWithBind>()
+                .To<LoadSceneWithBind>()
+                .AsSingle();
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Linq;
+using UnityEngine;
 
 namespace Orbitality.Client.Runtime
 {
@@ -6,5 +7,10 @@ namespace Orbitality.Client.Runtime
     public sealed class PlanetConfig : ScriptableObject 
     {
         [SerializeField] private PlanetModel[] _models = default;
+
+        public PlanetModel GetPlanetDataByType(PlanetType type)
+        {
+            return _models.First(item => item.Type == type);
+        }
     }
 }
